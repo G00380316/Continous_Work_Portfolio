@@ -1,0 +1,6 @@
+
+Submission
+Submit the two URL links
+1)GitHub repository used for Part 1 - https://github.com/G00380316/usingGithub
+2)GitHub repository used for Part 2 - https://github.com/altG00380316/JohnDoe
+
